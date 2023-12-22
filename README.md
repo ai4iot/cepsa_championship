@@ -1,2 +1,3 @@
-# cepsa_rewards
-Repo to track the winners of the yearly cepsa championship!!! 
+![CEPSA](assets/512px-Cepsa.svg.png)
+# CEPSA Championship
+Repo to track the winners of the yearly CEPSA championship!!! 
