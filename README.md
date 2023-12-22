@@ -21,3 +21,23 @@ The winner takes 5 points, the second 3 points and the third 1 point.
 
 # 2023 Results
 
+| Game | 1º       | 2º              | 3º              |
+|------|----------|-----------------|-----------------|
+| 1.1  | ADRI     | ALEX            | RAFA            |
+| 1.2  | EDU      | CARLOS A        | CARLOS B        |
+| 2    | CARLOS A | --------------- | --------------- |
+| 3    | CARLOS B | CARLOS A        | ALEX            |
+| 4    | CE       | CR              | AA              |
+| 5    | CARLOS A | CARLOS B        | ALEX            |
+| 6    | CARLOS B | RAFA            | EDU             |
+| 7    | ALEX     | CARLOS A        | ADRI            |
+
+## FINAL SCORE
+
+| Name     | Points |
+|----------|--------|
+| CARLOS A | 24     |
+| CARLOS B | 17     |
+| ALEX     | 12     |
+
+![f1-alonso.gif](assets%2Ff1-alonso.gif)
